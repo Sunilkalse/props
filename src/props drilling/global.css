@@ -1,0 +1,29 @@
+.prop{
+    background-color: #060047;
+    color: white;
+    padding: 30px;
+}
+.grandparent{
+    background-color: #B3005E;
+    color: white;
+    padding: 40px;
+
+}
+.parent{
+    background-color: #E90064;
+    color: white;
+    padding: 20px;
+
+}
+.child1{
+    background-color: #FF5F9E;
+    color: white;
+    padding: 20px;
+
+}
+.child2{
+    background-color: #AD7BE9;
+    color: white;
+    padding: 20px;
+
+}
